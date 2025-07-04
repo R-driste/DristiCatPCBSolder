@@ -8,7 +8,7 @@ Arif Wahyu</a>
 # PCB 3D VIEW
 <p align="center">
   <img src="images/front.png" alt="Preview" style="max-width: 45%; margin: 1em auto" />
-  <img src="images/back.png" alt="Preview" style="max-width: 44%; margin: 1em auto" />
+  <img src="images/back.png" alt="Preview" style="max-width: 42%; margin: 1em auto" />
 </p>
 
 # PCB FOOTPRINTS AND SCHEMATIC
